@@ -1,0 +1,20 @@
+# Updated requirements with correct package names
+streamlit
+crawl4ai
+httpx
+beautifulsoup4
+pydantic
+python-dotenv
+
+# Vector database and embedding - Updated with correct package names
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+chromadb
+sentence-transformers
+torch
+transformers
+
+# For document processing
+nltk
