@@ -1,4 +1,4 @@
-# app_simplified.py
+
 import streamlit as st
 import asyncio
 import os
